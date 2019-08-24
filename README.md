@@ -1,5 +1,6 @@
 vpcstats
 ========
+Compute Prediction Intervals on Simulated versus Observed Data
 
 [![Travis-CI Build Status](https://travis-ci.org/smouksassi/ComputePI.svg?branch=master)](https://travis-ci.org/smouksassi/ComputePI)
 
